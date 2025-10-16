@@ -1,0 +1,9 @@
+{
+  "spellcheck": false,
+  "promptDelete": false,
+  "newFileLocation": "root",
+  "smartIndentList": true,
+  "readableLineLength": false,
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "./photo"
+}

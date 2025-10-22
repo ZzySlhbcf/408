@@ -4,5 +4,8 @@
   "monospaceFontFamily": "JetBrains Mono,微软雅黑",
   "textFontFamily": "JetBrains Mono,微软雅黑",
   "interfaceFontFamily": "JetBrains Mono,微软雅黑",
-  "baseFontSizeAction": true
+  "baseFontSizeAction": true,
+  "enabledCssSnippets": [
+    "snippet"
+  ]
 }

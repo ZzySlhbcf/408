@@ -3,10 +3,39 @@
   "search": "",
   "showTags": true,
   "showAttachments": true,
-  "hideUnresolved": true,
+  "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "path:计算机组成原理  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:计算机网络  ",
+      "color": {
+        "a": 1,
+        "rgb": 5500517
+      }
+    },
+    {
+      "query": "path:操作系统  ",
+      "color": {
+        "a": 1,
+        "rgb": 5463790
+      }
+    },
+    {
+      "query": "path:数据结构  ",
+      "color": {
+        "a": 1,
+        "rgb": 13263099
+      }
+    }
+  ],
   "collapse-display": false,
   "showArrow": true,
   "textFadeMultiplier": 0,
@@ -17,6 +46,6 @@
   "repelStrength": 11.995841995842,
   "linkStrength": 1,
   "linkDistance": 230,
-  "scale": 0.11660891579457455,
-  "close": true
+  "scale": 0.0989543021863721,
+  "close": false
 }

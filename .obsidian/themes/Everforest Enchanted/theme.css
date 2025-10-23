@@ -972,7 +972,7 @@ div:has(h1) + div p:has(.tag) {
 }
 .graph-view.color-arrow {
     color: var(--text-normal);
-    opacity: 0.5;
+    opacity: 0.7;
 }
 .graph-view.color-line {
     color: var(--background-modifier-border);
@@ -984,6 +984,10 @@ div:has(h1) + div p:has(.tag) {
 .graph-view.color-fill-unresolved {
     color: var(--text-muted);
     opacity: 0.4;
+}
+.graph-view.color-fill-attachment {
+    color: lightslategrey;
+    opacity: 0.5;
 }
 
 /**** Mobile ****/

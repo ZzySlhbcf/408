@@ -32,7 +32,7 @@
       "query": "path:数据结构  ",
       "color": {
         "a": 1,
-        "rgb": 13263099
+        "rgb": 16514816
       }
     }
   ],
@@ -46,6 +46,6 @@
   "repelStrength": 12.5779625779626,
   "linkStrength": 1,
   "linkDistance": 230,
-  "scale": 1.2414543899483188,
+  "scale": 0.22920135941749348,
   "close": false
 }
